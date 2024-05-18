@@ -44,7 +44,7 @@ Navigate to the PhantomProbe directory:
 
 Run the installation script:
 
-```./install.sh```
+```chmod +x install.sh && ./install.sh```
 
 Follow any additional instructions prompted during the installation process.
 ## Usage
